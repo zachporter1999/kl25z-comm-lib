@@ -1,0 +1,6 @@
+--create .\Objects\libserial.lib
+.\objects\delay.o
+.\objects\queue.o
+.\objects\i2c.o
+.\objects\spi.o
+.\objects\uart.o
